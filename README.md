@@ -5,5 +5,7 @@ This is a simple flutter application which implement statemanagement using flutt
 TMDB is a publicly available API for Movies.
 
 ![Home](images/01.png)
+
 ![Detail](images/02.png)
+
 ![Search](images/03.png)
