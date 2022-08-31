@@ -1,16 +1,9 @@
 # tmdb
 
-A new Flutter project.
+This is a simple flutter application which implement statemanagement using flutter_bloc and consume data from TMDB API.
 
-## Getting Started
+TMDB is a publicly available API for Movies.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](https://drive.google.com/file/d/1jT56GMLIAA2LTL_WqD17n7_8pFKVQBoD/view?usp=sharing)
+![Detail](https://drive.google.com/file/d/1_mYoLlEtgtjw6yBrRjefWZm8KMlc6STR/view?usp=sharing)
+![Search](https://drive.google.com/file/d/1xbAyeI_NNGckbXqF4HdkVht5-Hms81QS/view?usp=sharing)
